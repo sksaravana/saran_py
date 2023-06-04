@@ -12,6 +12,9 @@ Y = [[5,8,1,2],
 result = [[0,0,0,0],
          [0,0,0,0],
          [0,0,0,0]]
+result = [[0,0,0,0],
+         [0,0,0,0],
+         [0,0,0,0]]
 
 # iterate through rows of X
 for i in range(len(X)):
